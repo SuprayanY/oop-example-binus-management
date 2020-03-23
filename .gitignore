@@ -1,0 +1,4 @@
+.idea
+resources/**
+!resources/META-INF
+target
